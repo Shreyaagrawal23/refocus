@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+@font-face {
+    font-family: "Satoshi Variable Bold";
+    src: url('/src/assets/Satoshi_Complete/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') 
+    format('truetype');
+  
+}   
